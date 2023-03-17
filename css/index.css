@@ -18,13 +18,15 @@ html, body {
 }
 
 #about img {
-  height: 100vh;
+  height: auto;
+  width: 75%;
   -webkit-clip-path: circle();
           clip-path: circle();
 }
 
 #history img {
-  height: 90vh;
+  height: auto;
+  width: 90vw;
 }
 
 footer {
